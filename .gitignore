@@ -1,0 +1,12 @@
+*~
+*.sublime-*
+*.log
+.DS_Store
+node_modules/
+docs/
+lib/
+dist/
+.awcache/
+coverage/
+test-reports/
+es/
